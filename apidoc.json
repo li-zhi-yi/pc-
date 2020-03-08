@@ -1,0 +1,7 @@
+{
+  "name": "api文档",
+  "version": "0.1.0",
+  "description": "登录注册 邮箱验证的接口文档 你懂的",
+  "title": "Custom apiDoc browser title",
+  "url" : "http://127.0.0.1:3000"
+}
